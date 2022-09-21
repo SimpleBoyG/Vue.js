@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "sass": "^1.19.0",
